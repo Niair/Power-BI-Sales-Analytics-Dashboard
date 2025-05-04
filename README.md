@@ -32,8 +32,7 @@ A professional sales analytics dashboard built with Power BI that provides insig
 ├── /powerbi/                 # Power BI files
 │   └── superstore-dashboard.pbix  # Main dashboard file
 │
-├── README.md                 # This documentation
-└── LICENSE                   # Project license
+└── README.md                 # This documentation
 ```
 
 ## 🔧 Setup Instructions
