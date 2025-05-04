@@ -3,7 +3,7 @@
 ## 📊 Dashboard Documentation
 
 ### Download Full Report
-[![Dashboard PDF Preview](https://imgur.com/upload)](https://github.com/Niair/Power-BI-Sales-Analytics-Dashboard/Power-BI-Sales-Analytics-Dashboard)
+(powerbi/Superstore_Sales.pdf)
 
 ## 📌 Overview
 A professional sales analytics dashboard built with Power BI that provides insights into:
