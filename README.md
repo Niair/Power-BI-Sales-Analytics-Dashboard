@@ -3,7 +3,7 @@
 ## 📊 Dashboard Documentation
 
 ### Download Full Report
-[![PDF Icon](https://img.shields.io/badge/Download_Dashboard_PDF-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Niair/Power-BI-Sales-Analytics-Dashboard/Power-BI-Sales-Analytics-Dashboard)
+[![PDF Icon](https://github.com/Niair/Power-BI-Sales-Analytics-Dashboard/Power-BI-Sales-Analytics-Dashboard)
 
 ## 📌 Overview
 A professional sales analytics dashboard built with Power BI that provides insights into:
