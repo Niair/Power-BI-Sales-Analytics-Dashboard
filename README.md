@@ -3,7 +3,7 @@
 ## 📊 Dashboard Documentation
 
 ### Download Full Report
-(powerbi/Superstore_Sales.pdf)
+[![Download Dashboard PDF](https://img.shields.io/badge/Download_Full_Report-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](powerbi/Superstore_Sales.pdf)
 
 ## 📌 Overview
 A professional sales analytics dashboard built with Power BI that provides insights into:
